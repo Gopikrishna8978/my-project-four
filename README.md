@@ -1,1 +1,1 @@
-# my-project-four
+Only dynamic Desktop static pages
